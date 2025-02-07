@@ -23,4 +23,4 @@ We get some heart related significant genes from these heart image features
 
 ## Tools
 
-Pytorch, keras, Pandas, Numpy, Matlibplot, data visulization, SAM2, selective search.
+Pytorch, keras, Pandas, Numpy, Matplotlib, data visulization, SAM2, selective search.
