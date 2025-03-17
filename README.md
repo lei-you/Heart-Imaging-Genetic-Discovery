@@ -2,7 +2,8 @@
 
 ## Objective
 In this project, we want to use the image features to find heart related Loci. 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/7e4e7ace-9064-4774-947c-b611c9b2bf9c)
 
 
 ## Challenges
